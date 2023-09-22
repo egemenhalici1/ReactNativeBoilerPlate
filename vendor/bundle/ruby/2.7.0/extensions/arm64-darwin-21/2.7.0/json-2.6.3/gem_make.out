@@ -1,0 +1,13 @@
+current directory: /Users/egemen/work/PodiumOn/mobile/PodiumOn/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/egemen/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/egemen/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20230815-59366-ojw69g.rb extconf.rb
+creating Makefile
+
+current directory: /Users/egemen/work/PodiumOn/mobile/PodiumOn/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/egemen/work/PodiumOn/mobile/PodiumOn/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/egemen/work/PodiumOn/mobile/PodiumOn/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
